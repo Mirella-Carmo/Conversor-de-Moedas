@@ -5,9 +5,9 @@ class Moedas{
  libra;
 
  constructor(){
-     this.dolar = 4.66;
-     this.euro = 5.14;
-     this.libra = 6.11;
+     this.dolar = 4.9;
+     this.euro = 5.35;
+     this.libra = 6.2;
  }
  converterRealDolar(){
     this.real = document.getElementById("realDolar").value;
